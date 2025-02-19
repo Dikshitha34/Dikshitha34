@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deekshitha -- @Dikshitha34
 - 👀 I’m interested in Web Development & Designing
-- 👩‍💻 A Cpmetitive Programmer and 📝 Python Developer...
-- 🌱 I’m currently improving my coding skills and have strong desire to learn and grow in SAP ecosystem...
+- 👩‍💻 A Cpmetitive Programmer and 📝 Developer...
+- 🌱 I’m currently improving my coding skills and have strong desire to learn 
 - 📫 How to reach me -- LinkedIn: linkedin.com/in/deekshitha-g
 
 <!---
